@@ -137,5 +137,3 @@ These developers make suggestions to the Navigator, the Driver, and the Scout, a
 - contributors: Megan
 
 #### shift 6 -> start over at shift 1
-
-#### shift 6 -> start over at shift 1
