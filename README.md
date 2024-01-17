@@ -98,42 +98,44 @@ These developers make suggestions to the Navigator, the Driver, and the Scout, a
 
 #### shift 1
 
-- driver: Caroline
-- navigator: Poonam
-- moderator: Jarrod
-- scout: Sana
-- contributor: Vanessa
+- driver: Betty
+- navigator: Joanna
+- moderator: Austin
+- scout: Megan
+- contributor: Paola
 
 #### shift 2
 
-- driver: Poonam
-- navigator: Jarrod
-- moderator: Sana
-- scout: Vanessa
-- contributor: Caroline
+- driver: Joanna
+- navigator: Austin
+- moderator: Megan
+- scout: Paola
+- contributors: Betty
 
 #### shift 3
 
-- driver: Jarrod
-- navigator: Sana
-- moderator: Vanessa
-- scout: Caroline
-- contributor: Poonam
+- driver: Austin
+- navigator: Megan
+- moderator: Paola
+- scout: Betty
+- contributors: Joanna
 
 #### shift 4
 
-- driver: Sana
-- navigator: Vanessa
-- moderator: Caroline
-- scout: Poonam
-- contributor: Jarrod
+- driver: Megan
+- navigator: Paola
+- moderator: Betty
+- scout: Joanna
+- contributors: Austin
 
 #### shift 5
 
-- driver: Vanessa
-- navigator: Caroline
-- moderator: Poonam
-- scout: Jarrod
-- contributor: Sana
+- driver: Paola
+- navigator: Betty
+- moderator: Joanna
+- scout: Austin
+- contributors: Megan
+
+#### shift 6 -> start over at shift 1
 
 #### shift 6 -> start over at shift 1
