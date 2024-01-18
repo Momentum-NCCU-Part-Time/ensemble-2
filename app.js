@@ -15,3 +15,6 @@ app.get("/", (req, res) => {
     res.json({ fortune: fortunes.fortune })
 })
 
+app.listen(config.port, () => {
+  console.log(`App listening on http://localhost:${config.port}`)
+})
