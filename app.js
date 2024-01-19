@@ -1,3 +1,4 @@
+const emoji = require('node-emoji');
 const express = require("express");
 const app = express();
 const config = { port: process.env.PORT || 3000 };
@@ -16,6 +17,10 @@ app.get("/", (req, res) => {
     res.json({ fortune: fortunes[(Math.floor(Math.random() * fortunes.length))]})
   }
   getFortune()
+});
+
+app.get("/api/emoji/:name", (req, res) => {
+  console.log(emoji.get('req.params.name'))
 });
 
 app.listen(config.port, () => {
