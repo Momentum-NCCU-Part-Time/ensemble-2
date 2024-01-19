@@ -13,10 +13,10 @@ const fortunes = [
 
 app.get("/", (req, res) => {
   function getFortune() {
-    res.json({ fortunes[Math.floor(Math.random() * fortunes.length)]})
+    res.json({ fortune: fortunes[(Math.floor(Math.random() * fortunes.length))]})
   }
+  getFortune()
 });
-getFortune()
 
 app.listen(config.port, () => {
   console.log(`App listening on http://localhost:${config.port}`)
